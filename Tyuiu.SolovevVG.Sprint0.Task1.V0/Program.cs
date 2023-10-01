@@ -15,7 +15,7 @@ namespace Tyuiu.SolovevVG.Sprint0.Task1.V0
             string name = "Валерий";
             int age = 22;
 
-            Console.WriteLine($"Здравствуйте, меня зовут {name}, мне {age} года!");
+            Console.WriteLine($"Здравствуйте, меня зовут {name}, мне {age} года!"); 
             Console.ReadKey();
         }
     }
